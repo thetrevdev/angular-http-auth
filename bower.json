@@ -1,0 +1,21 @@
+{
+  "name": "angular-http-auth",
+  "version": "0.0.1",
+  "author": "https://github.com/thetrevdev/angular-http-auth/graphs/contributors",
+  "main": "./src/http-auth-interceptor.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "test*",
+    "demo*",
+    "gruntFile.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "angular": "~1.x"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.x"
+  }
+}
